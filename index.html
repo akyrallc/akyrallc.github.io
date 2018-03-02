@@ -7,22 +7,41 @@
   <meta name="author" content="" />
   <meta name="description" content="" />
   <link rel="stylesheet" href="style.css" type="text/css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
 
 </head>
 
 <body>
-  <div id="page">
-    <div id="logo">
-      <h1>
-        <a href="/" id="logoLink" Akyra LLC</a>
-      </h1>
-    </div>
-    <div id="content" align="center">
+  <div id="page" ng-app="myApp" ng-controller="postsCtrl">
+    <div id="content" align="center" ng-repeat="p in posts">
+      <table>
+        <tr>
+          <td>
+            <p>
+              <h1>{{ p.description }}</h1>
+            </p>
+          </td>
+        </tr>
+      </table>
       <p>
-        <h1>The Hunters become the hunted. 2018 will be glorius!!<h1>
       </p>
     </div>
   </div>
+  <script>
+    var app = angular.module('myApp', []);
+    app.controller('postsCtrl', function ($scope) {
+
+      $scope.posts = [{
+          "id": "2",
+          "description": "Future Proves Past"
+        },
+        {
+          "id": "1",
+          "description": "The Hunters become the hunted. 2018 will be glorius!!"
+        }
+      ];
+    });
+  </script>
 </body>
 
 </html>
