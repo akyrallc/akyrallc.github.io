@@ -16,11 +16,22 @@
     <div id="content" align="center" ng-repeat="p in posts">
       <table>
         <tr>
+          <p>
+            {{p.currentdate}}
+          </p>
+        </tr>
+        <tr>
+          <p>
+            A
+          </p>
+        </tr>
+        <tr>
           <td>
             <p>
               <h1>{{ p.description }}</h1>
             </p>
           </td>
+
         </tr>
       </table>
       <p>
@@ -33,11 +44,13 @@
 
       $scope.posts = [{
           "id": "2",
-          "description": "Future Proves Past"
+          "description": "Future Proves Past",
+          "currentdate": "03/02/2018"
         },
         {
           "id": "1",
-          "description": "The Hunters become the hunted. 2018 will be glorius!!"
+          "description": "The Hunters become the hunted. 2018 will be glorius!!",
+          "currentdate": "03/02/2018"
         }
       ];
     });
