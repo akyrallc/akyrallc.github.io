@@ -8,11 +8,13 @@
   <meta name="description" content="" />
   <link rel="stylesheet" href="style.css" type="text/css" />
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+  <script src="data/posts.js"></script>
 
 </head>
 
 <body>
   <div id="page" ng-app="myApp" ng-controller="postsCtrl">
+
     <div id="content" align="center" ng-repeat="p in posts">
       <table>
         <tr>
@@ -40,29 +42,11 @@
   </div>
   <script>
     var app = angular.module('myApp', []);
-    app.controller('postsCtrl', function ($scope) {
+    app.controller('postsCtrl', function ($scope, $http, $q) {
 
-      $scope.posts = [{
-          "id": "4",
-          "description": "Dark to LIGHT. The choice, to KNOW, will be yours.",
-          "currentdate": "03/06/2018"
-        },
-        {
-          "id": "3",
-          "description": "Up is Down. Left is Right.",
-          "currentdate": "03/05/2018"
-        },
-        {
-          "id": "2",
-          "description": "Future Proves Past.",
-          "currentdate": "03/02/2018"
-        },
-        {
-          "id": "1",
-          "description": "The Hunters become the hunted. 2018 will be glorious!!",
-          "currentdate": "03/02/2018"
-        }
-      ];
+      (function () {
+        $scope.posts = posts
+      })()
     });
   </script>
 </body>
