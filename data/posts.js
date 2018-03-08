@@ -1,4 +1,6 @@
-var posts = [{
+var posts = [
+    
+    {
         "id": "5",
         "description": "Ask yourself, WHY? Trust the plan.",
         "currentdate": "03/07/2018",

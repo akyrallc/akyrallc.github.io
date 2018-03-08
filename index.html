@@ -28,7 +28,7 @@
           </p>
         </tr>
         <tr>
-          <img ng-src={{p.img}} height="200" width="200">
+          <!-- <img ng-src={{p.img}} height="200" width="200">-->
         </tr>
         <tr>
           <td>
@@ -45,7 +45,7 @@
   </div>
   <script>
     var app = angular.module('myApp', []);
-    app.controller('postsCtrl', function ($scope, $http, $q) {
+    app.controller('postsCtrl', function ($scope) {
       (function () {
         $scope.posts = posts
       })()
