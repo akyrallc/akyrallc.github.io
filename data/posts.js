@@ -1,5 +1,11 @@
 var posts = [
     {
+        "id": "8",
+        "description": "We work for you. Promises made. Promises kept.",
+        "currentdate": "03/12/2018",
+        "img": null
+    },
+    {
         "id": "7",
         "description": "Do you know that we know? Nobody playing the game gets a free pass. Nobody.",
         "currentdate": "03/09/2018",
