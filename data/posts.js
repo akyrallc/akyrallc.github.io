@@ -1,4 +1,9 @@
-var posts = [
+var posts = [{
+        "id": "10",
+        "description": "Who are we taught to trust the most? This will not be easy. The END.",
+        "currentdate": "03/14/2018",
+        "img": null
+    },
     {
         "id": "9",
         "description": "Everything has meaning. Learn to play the game. Play the game with us.",
@@ -23,7 +28,7 @@ var posts = [
         "currentdate": "03/08/2018",
         "img": null
     },
-    
+
     {
         "id": "5",
         "description": "Ask yourself, WHY? Trust the plan.",
