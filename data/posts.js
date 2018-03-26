@@ -1,7 +1,12 @@
 var posts = [{
+        "id": "18",
+        "description": "What makes a movie GOOD? GREAT actors?",
+        "currentdate": "03/26/2018",
+        "img": null
+    }, {
         "id": "17",
         "description": "Snow White. Wizards & Warlocks. Fantasy land. ",
-        "currentdate": "03/22/2018",
+        "currentdate": "03/23/2018",
         "img": null
     },
     {
