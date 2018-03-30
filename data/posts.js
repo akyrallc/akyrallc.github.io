@@ -1,6 +1,6 @@
 var posts = [{
         "id": "22",
-        "description": "ActorS are acting. Fake. No Power. Justice will be served to those playing the game [ALL].",
+        "description": "Actors are acting. Fake. No Power. Justice will be served to those playing the game [ALL].",
         "currentdate": "03/30/2018",
         "img": null
     }, {
