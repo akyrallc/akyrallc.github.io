@@ -1,5 +1,11 @@
 var posts = [{
         "id": "22",
+        "description": "100% Regulated. Some platforms will collapse under own weight of illegal activities.",
+        "currentdate": "04/02/2018",
+        "img": null
+    },
+    {
+        "id": "22",
         "description": "Actors are acting. Fake. No Power. Justice will be served to those playing the game [ALL].",
         "currentdate": "03/30/2018",
         "img": null
