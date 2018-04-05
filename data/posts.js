@@ -1,4 +1,11 @@
-var posts = [{
+var posts = [
+    {
+        "id": "26",
+        "description": "Investigate those in front of the camera who scream the loudest. These people are really stupid. End is near.",
+        "currentdate": "04/05/2018",
+        "img": null
+    },
+    {
         "id": "25",
         "description": "Everything is planned. Years.",
         "currentdate": "04/04/2018",
