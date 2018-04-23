@@ -1,4 +1,9 @@
 var posts = [{
+        "id": "38",
+        "description": "Reality is labeled as conspiracy. You are made to feel crazy. You are told to obey. DO NOT TRUST WHAT YOU READ",
+        "currentdate": "04/23/2018",
+        "img": null
+    }, {
         "id": "37",
         "description": "Thought clear. Now crystal clear.",
         "currentdate": "04/20/2018",
