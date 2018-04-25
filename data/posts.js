@@ -1,4 +1,15 @@
 var posts = [{
+        "id": "40",
+        "description": "Find the loudest voices. Brainwashed. They thought the SHEEP would follow the STARS.",
+        "currentdate": "04/25/2018",
+        "img": null
+    },
+    {
+        "id": "39",
+        "description": "Risk of conspiracy label the deeper we go. Truth will shock the WORLD.",
+        "currentdate": "04/24/2018",
+        "img": null
+    }, {
         "id": "38",
         "description": "Reality is labeled as conspiracy. You are made to feel crazy. You are told to obey. DO NOT TRUST WHAT YOU READ",
         "currentdate": "04/23/2018",
