@@ -2,7 +2,7 @@ var posts = [{
         "id": "46",
         "description": "Sky Clear?",
         "currentdate": "05/03/2018",
-        "img": "./images/IMG_1393.jpg"
+        "img": "../images/IMG_1393.JPG"
     }, {
         "id": "45",
         "description": "How do you capture a very dangerous animal? Do you attack it from the front? Do you walk through the front door? Do you signal ahead of time you will be attacking?",
