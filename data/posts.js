@@ -1,4 +1,9 @@
 var posts = [{
+        "id": "61",
+        "description": "You are the voice. We are here to help guide. Future proves past. You are the calm before and during the storm.",
+        "currentdate": "05/24/2018",
+        "img": ""
+    }, {
         "id": "60",
         "description": "You are not alone. God is LOVE. 2018 will be GLORIOUS! God bless.",
         "currentdate": "05/23/2018",
