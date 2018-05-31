@@ -1,4 +1,9 @@
 var posts = [{
+        "id": "66",
+        "description": "Do not fall victim to con artists. Use LOGIC. Stay on point.",
+        "currentdate": "05/31/2018",
+        "img": ""
+    }, {
         "id": "65",
         "description": "A clean [H]ouse is very important.",
         "currentdate": "05/30/2018",
