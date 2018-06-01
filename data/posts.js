@@ -1,4 +1,9 @@
 var posts = [{
+        "id": "67",
+        "description": "When you are no longer seeking another term you are 'FREE' to make better decisions.",
+        "currentdate": "06/01/2018",
+        "img": ""
+    }, {
         "id": "66",
         "description": "Do not fall victim to con artists. Use LOGIC. Stay on point.",
         "currentdate": "05/31/2018",
