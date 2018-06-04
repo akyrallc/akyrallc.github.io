@@ -1,4 +1,9 @@
 var posts = [{
+        "id": "68",
+        "description": "A WEEK TO REMEMBER. Dark to Light.",
+        "currentdate": "06/04/2018",
+        "img": "./data/image/IMG_1544.JPG"
+    }, {
         "id": "67",
         "description": "When you are no longer seeking another term you are 'FREE' to make better decisions.",
         "currentdate": "06/01/2018",
