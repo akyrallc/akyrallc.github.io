@@ -1,4 +1,9 @@
 var posts = [{
+        "id": "71",
+        "description": "Finally, be strong in the Lord and in his mighty power. Put on the full armor of God so that you can take your stand against the devil's schemes. For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
+        "currentdate": "06/08/2018",
+        "img": ""
+    }, {
         "id": "70",
         "description": "You have more than you know. Happy Hunting!",
         "currentdate": "06/06/2018",
