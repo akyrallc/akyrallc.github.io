@@ -1,4 +1,9 @@
 var posts = [{
+        "id": "72",
+        "description": "A WEEK TO REMEMBER. BLACKOUT NECESSARY.",
+        "currentdate": "06/11/2018",
+        "img": ""
+    }, {
         "id": "71",
         "description": "Finally, be strong in the Lord and in his mighty power. Put on the full armor of God so that you can take your stand against the devil's schemes. For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms.",
         "currentdate": "06/08/2018",
