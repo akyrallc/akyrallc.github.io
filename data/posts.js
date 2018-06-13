@@ -1,4 +1,9 @@
 var posts = [{
+        "id": "74",
+        "description": "DO NOT BE SILENT. They are losing control. GREAT AWAKENING",
+        "currentdate": "06/13/2018",
+        "img": ""
+    }, {
         "id": "73",
         "description": "The World is Safer. Developments!",
         "currentdate": "06/12/2018",
