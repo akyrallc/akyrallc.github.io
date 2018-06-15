@@ -1,4 +1,9 @@
 var posts = [{
+        "id": "76",
+        "description": "THIS IS NOT A GAME. THIS IS WAR. THIS IS LITERALLY EVIL KNOCKING.",
+        "currentdate": "06/15/2018",
+        "img": ""
+    }, {
         "id": "75",
         "description": "The Truth has been in front of you the entire time.",
         "currentdate": "06/14/2018",
