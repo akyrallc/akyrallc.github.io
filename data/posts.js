@@ -1,4 +1,9 @@
 var posts = [{
+        "id": "77",
+        "description": "DO NOT FEAR. STAND UNITED and STRONG!",
+        "currentdate": "06/18/2018",
+        "img": ""
+    }, {
         "id": "76",
         "description": "THIS IS NOT A GAME. THIS IS WAR. THIS IS LITERALLY EVIL KNOCKING.",
         "currentdate": "06/15/2018",
