@@ -1,4 +1,9 @@
 var posts = [{
+        "id": "85",
+        "description": "Be on your guard, stand firm in the faith, be courageous, be strong.",
+        "currentdate": "07/03/2018",
+        "img": ""
+    }, {
         "id": "84",
         "description": "Media BLACKOUT. The more you know.",
         "currentdate": "07/02/2018",
