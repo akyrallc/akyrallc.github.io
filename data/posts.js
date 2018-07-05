@@ -1,4 +1,9 @@
 var posts = [{
+        "id": "86",
+        "description": "With power comes corruption. Not all are bad apples. Should the bad spoil the bunch?",
+        "currentdate": "07/05/2018",
+        "img": ""
+    }, {
         "id": "85",
         "description": "Be on your guard, stand firm in the faith, be courageous, be strong.",
         "currentdate": "07/03/2018",
