@@ -2,7 +2,7 @@ var posts = [{
         "id": "88",
         "description": "Monday Be Like.",
         "currentdate": "07/09/2018",
-        "img": "./data/image/IMG_1576.JPG"
+        "img": "./data/image/IMG_1577.JPG"
     }, {
         "id": "87",
         "description": "Why are people always being moved around? Think strategy. The Plan.",
