@@ -1,4 +1,9 @@
 var posts = [{
+        "id": "93",
+        "description": "God bless each and every one of you. Fight, fight, fight!",
+        "currentdate": "07/16/2018",
+        "img": ""
+    }, {
         "id": "92",
         "description": "You are the support. People will be lost. People will be terrified. People will reject. People will need to be guided. Do not be afraid.We will succeed. Timing is everything.",
         "currentdate": "07/13/2018",
