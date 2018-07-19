@@ -1,4 +1,9 @@
 var posts = [{
+        "id": "96",
+        "description": "Off the GRID",
+        "currentdate": "07/19/2018",
+        "img": "./data/image/IMG_1582.JPG"
+    }, {
         "id": "95",
         "description": "#AI #Airport #AICalypto",
         "currentdate": "07/18/2018",
