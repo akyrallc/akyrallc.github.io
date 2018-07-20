@@ -30,8 +30,8 @@
         <tr>
           <img ng-If="p.img != null" ng-src={{p.img}}>
         </tr>
-        <tr ng-If="p.vid != null">
-          <video width="320" height="240" ng-src={{p.vid}} controls>
+        <tr>
+          <video ng-If="p.vid != null" width="320" height="240" ng-src={{p.vid}} controls>
           </video>
         </tr>
         <tr>
