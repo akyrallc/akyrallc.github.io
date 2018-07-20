@@ -35,7 +35,7 @@
           </video>
         </tr>
         <tr>
-          <td ng-bind-html="p.unicode | exposeEmoji"></td>
+          <td ng-If="p.unicode != null" ng-bind-html="p.unicode | exposeEmoji"></td>
           <td>
             <p>
               <h1>{{ p.description }}</h1>
