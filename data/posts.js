@@ -1,4 +1,10 @@
 var posts = [{
+        "id": "99",
+        "description": "#river #calmness",
+        "currentdate": "07/24/2018",
+        "img": "",
+        "vid": "./data/video/IMG_5815.mov"
+    }, {
         "id": "98",
         "description": "Good day to #ragbrai #iowa",
         "currentdate": "07/23/2018",
