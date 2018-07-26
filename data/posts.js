@@ -1,4 +1,8 @@
 var posts = [{
+        "id": "101",
+        "description": "Something BIG is about to drop",
+        "currentdate": "07/26/2018"
+    }, {
         "id": "100",
         "description": "#upperiowa #tubing",
         "currentdate": "07/25/2018",
@@ -19,7 +23,7 @@ var posts = [{
         "description": "Corn Belt",
         "currentdate": "07/20/2018",
         "img": "",
-        "vid": "./data/video/IMG_5688.mov",
+        "vid": "./data/video/IMG_6001.mov",
         "unicode": "1f33d"
     }, {
         "id": "96",
