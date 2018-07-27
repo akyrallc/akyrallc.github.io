@@ -1,7 +1,7 @@
 var posts = [{
-        "id": "101",
-        "description": "Something BIG is about to drop",
-        "currentdate": "07/26/2018"
+        "id": "102",
+        "description": "You have a front row seat. Enjoy the show.",
+        "currentdate": "07/27/2018"
     }, {
         "id": "100",
         "description": "#upperiowa #tubing",
