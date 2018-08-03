@@ -1,7 +1,7 @@
 var posts = [{
         "id": "107",
         "currentdate": "08/03/2018",
-        "img": "./data/image/IMG_6204.JPG"
+        "img": "./data/image/IMG_6205.jpg"
     }, {
         "id": "106",
         "description": "Welcome to the mainstream. We knew this day would come.",
