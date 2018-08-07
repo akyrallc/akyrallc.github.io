@@ -1,4 +1,12 @@
 var posts = [{
+        "id": "109",
+        "description": "Research for yourself. Think for yourself. Trust yourself.",
+        "currentdate": "08/07/2018"
+    }, {
+        "id": "108",
+        "description": "Attacks will only intensify. Logical thinking.",
+        "currentdate": "08/06/2018"
+    }, {
         "id": "107",
         "currentdate": "08/03/2018",
         "img": "./data/image/IMG_6205.jpg"
