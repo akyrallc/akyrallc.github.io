@@ -1,13 +1,21 @@
 var posts = [{
-    "id": "114",
-    "description": "They never thought they'd be hunted.",
-    "img": "./data/image/IMG_1.jpeg",
-    "currentdate": "08/15/2018"
-},{
-    "id": "113",
-    "description": "You are under constant tracking/surveillance.",
-    "currentdate": "08/14/2018"
-},{
+        "id": "116",
+        "description": "Ask yourself simple questions. Logical thinking.",
+        "currentdate": "08/17/2018"
+    }, {
+        "id": "115",
+        "description": "PEOPLE must unite to clean out these old institutions.",
+        "currentdate": "08/16/2018"
+    }, {
+        "id": "114",
+        "description": "They never thought they'd be hunted.",
+        "img": "./data/image/IMG_1.jpeg",
+        "currentdate": "08/15/2018"
+    }, {
+        "id": "113",
+        "description": "You are under constant tracking/surveillance.",
+        "currentdate": "08/14/2018"
+    }, {
         "id": "112",
         "description": "'They' prey on emotionally unstable (helpless) individuals and use them as PAWNS",
         "currentdate": "08/13/2018"
