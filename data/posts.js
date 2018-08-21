@@ -1,4 +1,8 @@
 var posts = [{
+        "id": "118",
+        "description": "Define 'Narcissist'.A person who has an excessive interest in or admiration of themselves: narcissists who think the world revolves around them. Narcissists preening themselves in front of the mirror?",
+        "currentdate": "08/21/2018"
+    }, {
         "id": "117",
         "description": "Will you stand tall or cower? Smile for the camera.",
         "currentdate": "08/20/2018"
