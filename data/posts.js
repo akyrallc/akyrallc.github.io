@@ -1,5 +1,9 @@
 var posts = [{
         "id": "121",
+        "description": "There is a price we will not pay. There is a point beyond which they must not advance.",
+        "currentdate": "08/28/2018"
+    }, {
+        "id": "121",
         "description": "We are in control. BIG Week ahead!",
         "currentdate": "08/27/2018"
     }, {
