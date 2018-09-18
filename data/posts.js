@@ -1,4 +1,12 @@
 var posts = [{
+        "id": "135",
+        "description": "The world is watching.",
+        "currentdate": "09/18/2018"
+    }, {
+        "id": "134",
+        "description": "Planning at its finest.",
+        "currentdate": "09/17/2018"
+    }, {
         "id": "133",
         "description": "Twelve moves ahead.",
         "currentdate": "09/14/2018"
