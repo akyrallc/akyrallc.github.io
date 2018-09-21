@@ -1,4 +1,8 @@
 var posts = [{
+        "id": "136",
+        "description": "Don't interfere when the enemy is destroying themselves - The Art of War.",
+        "currentdate": "09/21/2018"
+    }, {
         "id": "135",
         "description": "The world is watching.",
         "currentdate": "09/18/2018"
