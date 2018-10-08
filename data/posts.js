@@ -1,4 +1,8 @@
 var posts = [{
+        "id": "144",
+        "description": "THINK for yourself. RESEARCH for yourself. TRUST yourself. FIND THE TRUTH.",
+        "currentdate": "10/08/2018"
+    }, {
         "id": "143",
         "description": "We are selfless, nameless, faceless, fameless, and FEARLESS. We are grateful.",
         "currentdate": "10/04/2018"
