@@ -1,4 +1,8 @@
 var posts = [{
+        "id": "145",
+        "description": "Of course, we already knew this. Knowledge is power.",
+        "currentdate": "10/09/2018"
+    }, {
         "id": "144",
         "description": "THINK for yourself. RESEARCH for yourself. TRUST yourself. FIND THE TRUTH.",
         "currentdate": "10/08/2018"
