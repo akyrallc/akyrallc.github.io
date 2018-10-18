@@ -8,12 +8,12 @@ var posts = [ {
         "id": "149",
         "description": "#silencethenarc #gaslighting",
         "img": "./data/image/Homer.png",
-        "currentdate": "10/17/2018"
+        "currentdate": "10/16/2018"
     }, {
         "id": "148",
         "description": "#bossbabe",
         "img": "./data/image/github.jpg",
-        "currentdate": "10/16/2018"
+        "currentdate": "10/15/2018"
     },
     {
         "id": "147",
