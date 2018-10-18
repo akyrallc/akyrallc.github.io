@@ -1,4 +1,9 @@
 var posts = [{
+    "id": "150",
+    "description": "#bossbabe",
+    "img": "./data/image/github.jpg",
+    "currentdate": "10/16/2018"
+}, {
     "id": "149",
     "description": "#coding",
     
