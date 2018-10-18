@@ -1,4 +1,9 @@
-var posts = [
+var posts = [{
+    "id": "149",
+    "description": "#coding",
+    
+    "currentdate": "10/17/2018"
+}, 
     {
         "id": "148",
         "description": "#silencethenarc #gaslighting",
