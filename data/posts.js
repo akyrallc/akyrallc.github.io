@@ -1,4 +1,11 @@
-var posts = [{
+var posts = [
+    {
+        "id": "148",
+        "description": "#silencethenarc #gaslighting",
+        "img": "./data/image/Homer.png",
+        "currentdate": "10/17/2018"
+    }, 
+    {
         "id": "147",
         "description": "",
         "img": "./data/image/IMG_1734.JPG",
