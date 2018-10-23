@@ -1,6 +1,11 @@
 var posts = 
 
 [{
+    "id": "154",
+    "description": "Forgive your enemies, but never forget their names. JFK" ,
+   
+    "currentdate": "10/23/2018"
+},{
     "id": "153",
     "description": "Building Our Business Empire" ,
     "img": "./data/image/Conor.png",
