@@ -2,7 +2,7 @@ var posts =
 
 [{
     "id": "157",
-    "description": "Nice Mugshot. Smile for the Camera. 📸 🎬" ,
+    "description": "Nice Mug Shot. Smile for the Camera. 📸 🎬" ,
    
     "currentdate": "10/26/2018"
 },{
