@@ -2,10 +2,10 @@ var posts =
 
 [{
     "id": "158",
-    "description":"A Star Is Born",
+    "description":"A Star Is Born ⭐️",
     "currentdate": "10/29/2018",
     "img": "",
-    "vid": "https://www.youtube.com/watch?v=P1wrGMIpaz0",
+   
   
 }, {
     "id": "157",
