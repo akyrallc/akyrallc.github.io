@@ -2,7 +2,7 @@ var posts =
 
 [{
     "id": "160",
-    "description":"Happy Halloween! 🎃👻",
+    "description":"Happy Halloween!",
     "currentdate": "10/31/2018",
     "img": "",
    
