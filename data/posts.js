@@ -3,8 +3,8 @@ var posts =
 [{
     "id": "160",
     "description":"Happy Halloween!",
-    "currentdate": "10/31/2018",
-    "img": "",
+    "img": "./data/image/Halloween.JPG",
+    "currentdate": "10/31/2018"
    
   
 },{
