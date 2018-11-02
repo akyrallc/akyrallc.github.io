@@ -1,6 +1,13 @@
 var posts = 
 
 [{
+    "id": "162",
+    "description":"No apathy, laziness or silence allowed during this election at any time. Voting Matters!",
+    "img": "./data/image/Voting.jpg",
+    "currentdate": "11/02/2018"
+   
+  
+},{
     "id": "161",
     "description":"58,000 sealed indictments. Are you one of them?",
    
