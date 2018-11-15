@@ -1,9 +1,15 @@
 var posts = 
 
 [{
+    "id": "164",
+    "description":"Quote of the day.",
+    "img": "./data/image/Quote.png",
+    "currentdate": "11/15/2018"
+   
+  
+},{
     "id": "163",
     "description":"Pyschological projection is a theory in which the human ego defends itself against unconscious impulses or qualities by denying their existence in themselves while attributing them to others.",
-    
     "currentdate": "11/05/2018"
    
   
