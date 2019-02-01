@@ -1,10 +1,11 @@
 var posts = 
 
-[{
-    "id": "169",
-    "description":"See you there! ✌️",
-    "img": "./data/image/Capitol.jpg" ,
-    "currentdate": "1/29/2019"
+[[
+    {
+    "id": "170",
+    "description":"Not my code, not my monkey. 🐒",
+    "vid": "./data/video/sac.mp4",
+    "currentdate": "2/01/2019"
    
   
 },
