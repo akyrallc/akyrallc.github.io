@@ -5,7 +5,7 @@ var posts =
 [{
     "id": "176",
     "description": "Winston 💞",
-    "vid": "./data/video/Winston.mov",
+    "vid": "./data/video/Winston.mp4",
     "currentdate": "3/29/2019"
   
 
