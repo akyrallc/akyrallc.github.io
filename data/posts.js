@@ -1,4 +1,11 @@
-var posts = [
+var posts = [{
+    "id": "179",
+    "description": "Mess with the Best, Die like the Rest.",
+    "img": "./data/image/Best.jpg",
+    "currentdate": "08/08/2019"
+
+
+},
     {
         "id": "178",
         "description": "Red Pill",
