@@ -1,4 +1,13 @@
-var posts = [{
+var posts = [
+    {
+        "id": "178",
+        "description": "Red Pill",
+        "img": "./data/image/Red.png",
+        "currentdate": "08/07/2019"
+
+
+    },
+    {
         "id": "177",
         "description": "Only four months left of the year. What do you plan to accomplish?",
 
