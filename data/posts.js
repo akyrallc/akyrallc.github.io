@@ -1,6 +1,6 @@
 var posts = [ {
     "id": "181",
-    "description": "Sky Clear?.",
+    "description": "Sky Clear?",
     "img": "./data/image/SkyClear.jpg",
     "currentdate": "08/29/2019"
 
