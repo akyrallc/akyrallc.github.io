@@ -1,6 +1,6 @@
 var posts = [{
     "id": "182",
-    "description": "Seed.",
+    "description": "Seeds.",
     "img": "./data/image/seed.jpg",
     "currentdate": "10/07/2019"
 
